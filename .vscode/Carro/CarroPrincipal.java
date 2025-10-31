@@ -4,6 +4,6 @@ public class CarroPrincipal {
         meuCarro.modelo = "Opala";
         meuCarro.cor = "Preto";
         meuCarro.anoDeLancamento = 1968;
-        meuCarro.fichaTecnica() ;
+        meuCarro.fichaTecnica();
     }
 }
